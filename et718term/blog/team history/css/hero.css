@@ -1,0 +1,32 @@
+
+.marketing-site-features {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.marketing-site-features .fa {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #FFFFFF;
+}
+
+.marketing-site-features .marketing-site-features-title {
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 40em) {
+  .marketing-site-features {
+    text-align: left;
+  }
+}
+
+.marketing-site-features-headline {
+  text-align: center;
+  font-size: 24px;
+}
+
+.marketing-site-features-subheadline {
+  margin-bottom: 1rem;
+  text-align: center;
+}
